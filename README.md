@@ -2,7 +2,7 @@ Evaluation Janvier
 ===================
 
 
-Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete me, I'm very helpful! I can be recovered anyway in the **Utils** tab of the <i class="icon-cog"></i> **Settings** dialog.
+Ce repo est l'évaluation de janvier à 3 mois de la formation. Ci-dessous vous trouverez les réponses aux questions et dans les différents dossiers, les différents challenge (CSS, Js et de syntaxe)
 
 ----------
 
